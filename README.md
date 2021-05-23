@@ -8,7 +8,11 @@ Fashion-MNIST is a dataset of Zalando's article images—consisting of a trainin
 
 The original MNIST dataset contains a lot of handwritten digits. Members of the AI/ML/Data Science community love this dataset and use it as a benchmark to validate their algorithms. In fact, MNIST is often the first dataset researchers try. "If it doesn't work on MNIST, it won't work at all", they said. "Well, if it does work on MNIST, it may still fail on others."
 
-Zalando seeks to replace the original MNIST dataset
+Zalando seeks to replace the original MNIST dataset.
+
+Here's an example of how the data looks (each class takes three-rows):
+
+![Fashion Mnist Data](https://raw.githubusercontent.com/kulin-patel/Fashion-Class-Classification/main/fashion-mnist.png)
 
 
 
